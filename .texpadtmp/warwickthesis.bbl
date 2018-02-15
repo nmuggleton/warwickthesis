@@ -1,0 +1,23 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abraham et~al.(1983)Abraham, Marsden, and Ratiu]{abraham_etal}
+Ralph Abraham, Jerrold~E. Marsden, and Tudor Ratiu.
+\newblock \emph{Manifolds, tensor analysis and Applications}.
+\newblock Addison-Wesley Publishing Company, 1983.
+
+\bibitem[Ballentine(1982)]{ballentine82}
+Leslie~E Ballentine.
+\newblock Indirect evidence for quantum gravity-comment.
+\newblock \emph{Physical Review Letters}, 48\penalty0 (7):\penalty0 252, 1982.
+
+\bibitem[Misner et~al.(1973)Misner, Thorne, and Wheeler]{MTW}
+C~W Misner, K~S Thorne, and J~A Wheeler.
+\newblock \emph{Gravitation}.
+\newblock W H Freedman and Sons, 1973.
+
+\end{thebibliography}
